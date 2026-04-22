@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="pedidoApp">
+<head>
+  <meta charset="UTF-8">
+  <title>Veterinaria - Pedidos</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { color: #2c3e50; }
+    .producto { border: 1px solid #ccc; padding: 10px; margin: 10px; display: inline-block; width: 220px; }
+    .carrito { margin-top: 20px; border-top: 2px solid #2c3e50; padding-top: 10px; }
+    button { background: #27ae60; color: white; border: none; padding: 5px 10px; cursor: pointer; }
+    button:hover { background: #2ecc71; }
+    .icono-carrito { font-size: 24px; cursor: pointer; margin-left: 20px; }
+    select { margin: 5px 0; }
+    .cantidad-btn { margin: 0 5px; }
+  </style>
+</head>
+<body ng-controller="PedidoController">
+
+  <h1>Veterinaria - Pedidos
+    <span class="icono-carrito" ng-click="mostrarCarrito = !mostrarCarrito">
+      🛒 ({{carrito.length}})
+    </span>
+  </h1>
+
+  <div>
+    <div class="producto" ng-repeat="item in productos">
+      <h3>{{item.nombre}}</h3>
+      <label>Presentación:</label>
+      <select ng-model="item.seleccion" ng-options="p as p.text for p in item.presentaciones"></select>
+      <button ng-click="agregar(item)">Agregar al carrito</button>
+    </div>
+  </div>
+
+  <div class="carrito" ng-if="mostrarCarrito && carrito.length > 0">
+    <h2>Tu Carrito</h2>
+    <ul>
+      <li ng-repeat="c in carrito">
+        {{c.nombre}} - {{c.presentacion.text}}  
+        (Código: {{c.codigo}})  
+        | Cantidad: {{c.cantidad}}  
+        | Subtotal: ${{c.cantidad * c.presentacion.precio}}
+        <button class="cantidad-btn" ng-click="sumarCantidad(c)">+</button>
+        <button class="cantidad-btn" ng-click="restarCantidad(c)">-</button>
+        <button ng-click="eliminar($index)">Quitar</button>
+      </li>
+    </ul>
+    <p><strong>Total: ${{total()}}</strong></p>
+    <button ng-click="enviarWhatsApp()">Enviar a WhatsApp</button>
+  </div>
+
+  <script>
+    angular.module('pedidoApp', [])
+      .controller('PedidoController', ['$scope', '$http', function($scope, $http) {
+        $scope.carrito = [];
+        $scope.mostrarCarrito = false;
+
+        // Cargar productos desde un archivo JSON
+        $http.get('productos.json').then(function(response) {
+          $scope.productos = response.data;
+        });
+
+        $scope.agregar = function(item) {
+          if (item.seleccion) {
+            var existente = $scope.carrito.find(function(c) {
+              return c.codigo === item.seleccion.codigo;
+            });
+            if (existente) {
+              existente.cantidad++;
+            } else {
+              $scope.carrito.push({
+                nombre: item.nombre,
+                presentacion: item.seleccion,
+                codigo: item.seleccion.codigo,
+                cantidad: 1
+              });
+            }
+          } else {
+            alert("Selecciona una presentación antes de agregar.");
+          }
+        };
+
+        $scope.sumarCantidad = function(c) {
+          c.cantidad++;
+        };
+
+        $scope.restarCantidad = function(c) {
+          if (c.cantidad > 1) {
+            c.cantidad--;
+          }
+        };
+
+        $scope.eliminar = function(index) {
+          $scope.carrito.splice(index, 1);
+        };
+
+        $scope.total = function() {
+          return $scope.carrito.reduce(function(suma, item) {
+            return suma + (item.presentacion.precio * item.cantidad);
+          }, 0);
+        };
+
+        $scope.enviarWhatsApp = function() {
+          var numero = "521234567890"; // Reemplaza con tu número
+          var mensaje = "Pedido:%0A";
+          $scope.carrito.forEach(function(item) {
+            mensaje += "- " + item.nombre + " " + item.presentacion.text +
+                       " (Código: " + item.codigo + ") x" + item.cantidad +
+                       " = $" + (item.presentacion.precio * item.cantidad) + "%0A";
+          });
+          mensaje += "Total: $" + $scope.total();
+          var url = "https://wa.me/" + numero + "?text=" + mensaje;
+          window.open(url, "_blank");
+        };
+      }]);
+  </script>
+
+</body>
+</html>
