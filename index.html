@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="es" ng-app="myApp">
+<head>
+  <meta charset="UTF-8">
+  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+  <style>
+    body { margin:0; background:#777; display:flex; flex-direction:column; align-items:center }
+    header { display:flex; gap:10px; padding:10px; width:99%; align-items:center }
+    input { border-radius:5px; border:none; padding:10px; flex:1 }
+    .grid { display:grid; grid-template-columns:repeat(5,1fr); gap:5px; margin:10px }
+    .grid div { border-radius:5px; background:#aaa; padding:5px; height:390px; overflow:auto }
+    .grid div::-webkit-scrollbar{width:8px;border-radius:4px}
+    .grid div::-webkit-scrollbar-track{background:#ce0d0d;border-radius:4px}
+    .grid div::-webkit-scrollbar-thumb{background:#0f0;border-radius:4px;border:2px solid #333}
+    nav{display:flex;gap:20px;align-items:center}
+    nav button[disabled]{opacity:.5;cursor:not-allowed}
+    nav strong{color:#fff}
+    table{width:100%;border-collapse:collapse;margin-top:5px;font-size:.8em;color:#fff}
+    table caption{text-align:left;font-weight:bold;margin-bottom:4px;color:#0f0}
+    table td{border:1px solid #ccc;padding:4px}
+    table tr:nth-child(odd){background:#eee;color:#000}
+    table tr:nth-child(even){background:#ccc;color:#000}
+    table tr:hover{background:rgba(0,0,0,.2);color:#0f0}
+  </style>
+</head>
+<body ng-controller="MainCtrl">
+  <header>
+    <input ng-model="search" ng-change="onSearchChange()" placeholder="Filtrar por nombre o categoría (Ctrl+B)">
+    <span style="color:#fff;font-weight:bold">Chart</span>
+  </header>
+  <div class="grid">
+    <div ng-repeat="item in cachedFiltered.slice(page*10,(page+1)*10) track by $index">
+      <img ng-src="{{item.img}}" style="width:auto;height:40%"><br>
+      <span style="color:#fff">{{item.categoria}}</span><br>
+      <strong>{{item.nombre}}</strong><br>
+      <small>{{item.info}}</small><br>
+      <small>{{item.dosis}}</small><br>
+
+      <table>
+        <caption>Formula {{item.formula.header}}</caption>
+        <thead>
+          <tr><th>Ingrediente</th><th>Cantidad</th></tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="row in item.formula.rows">
+            <td>{{row[0]}}</td><td>{{row[1]}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <table ng-if="item.format">
+        <caption>Presentaciones y precios</caption>
+        <thead>
+          <tr><th>Unidad</th><th>Precio</th><th>Código</th></tr>
+        </thead>
+        <tbody>
+          <tr ng-repeat="f in item.format">
+            <td>{{f.unit}}</td>
+            <td>{{f.price | currency:'$'}}</td>
+            <td>{{f.code}}</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+  <nav role="navigation" aria-label="Paginación de catálogo">
+    <button ng-click="prev()" ng-disabled="page<=0" aria-label="Página anterior" ng-attr-aria-disabled="{{page<=0}}">&larr;</button>
+    <strong>
+      <span aria-live="polite">
+        Página <span aria-current="page">{{page+1}}</span> / {{totalPages()}}
+        (Mostrando {{page*10+1}}–{{rangeEnd()}} de {{cachedFiltered.length}})
+      </span>
+    </strong>
+    <button ng-click="next()" ng-disabled="page>=totalPages()-1" aria-label="Página siguiente" ng-attr-aria-disabled="{{page>=totalPages()-1}}">&rarr;</button>
+  </nav>
+
+  <script>
+    angular.module('myApp', [])
+      .controller('MainCtrl', function ($scope, $http, $document) {
+        $scope.page = 0;
+        $scope.items = [];
+        $scope.cachedFiltered = [];
+
+        // Función para recalcular el cache
+        function updateCache() {
+          if (!$scope.search) {
+            $scope.cachedFiltered = $scope.items;
+          } else {
+            let s = $scope.search.toLowerCase();
+            $scope.cachedFiltered = $scope.items.filter(x =>
+              x.nombre.toLowerCase().includes(s) ||
+              x.categoria.toLowerCase().includes(s)
+            );
+          }
+        }
+
+        $scope.rangeEnd = () => Math.min(($scope.page+1)*10, $scope.cachedFiltered.length);
+        $scope.totalPages = () => Math.max(1, Math.ceil($scope.cachedFiltered.length/10));
+
+        $scope.next = () => { if ($scope.page < $scope.totalPages()-1) $scope.page++; };
+        $scope.prev = () => { if ($scope.page > 0) $scope.page--; };
+
+        $scope.onSearchChange = () => {
+          $scope.page = 0;
+          updateCache();
+        };
+
+        // Cargar datos
+        $http.get('items.json').then(res => {
+          angular.forEach(res.data, (arr, cat) => {
+            arr.forEach(obj => obj.categoria = cat);
+            $scope.items = $scope.items.concat(arr);
+          });
+          updateCache(); // inicializar cache
+        });
+
+        $http.get('formats.json').then(res => {
+          const formatsData = res.data;
+          // Fusionar con items existentes
+          $scope.items.forEach(item => {
+            const match = formatsData.find(f => f.name.trim().toLowerCase() === item.nombre.trim().toLowerCase());
+            if (match) {
+              item.format = match.format;
+            }
+          });
+          updateCache();
+        });
+
+        const keyMap = {
+          ArrowRight: () => $scope.next(),
+          PageDown: () => $scope.next(),
+          ArrowLeft: () => $scope.prev(),
+          PageUp: () => $scope.prev(),
+          Home: () => $scope.page = 0,
+          End: () => $scope.page = $scope.totalPages()-1
+        };
+        function handleKey(e) {
+          if (e.ctrlKey && e.key.toLowerCase() === 'b') {
+            e.preventDefault(); // evita que el navegador abra la búsqueda
+            document.querySelector('input[ng-model="search"]').focus();
+          } else if (keyMap[e.key]) {
+            e.preventDefault();
+            keyMap[e.key]();
+          }
+        }
+        $document.on('keydown', e => $scope.$apply(() => handleKey(e)));
+      });
+  </script>
+</body>
+</html>
