@@ -1,0 +1,5102 @@
+[
+  {
+    "name": "AEROZAN",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 270.59,
+        "code": "1"
+      }
+    ]
+  },
+  {
+    "name": "ALBENDABIO 10%",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 143.34,
+        "code": "2"
+      },
+      {
+        "unit": "250 ML",
+        "price": 274.2,
+        "code": "3"
+      },
+      {
+        "unit": "5 LT",
+        "price": 3478.75,
+        "code": "479"
+      },
+      {
+        "unit": "1 LT",
+        "price": 877.37,
+        "code": "4"
+      }
+    ]
+  },
+  {
+    "name": "ALBENDABIO 25% FORTE",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 196.91,
+        "code": "5"
+      },
+      {
+        "unit": "250 ML",
+        "price": 360.32,
+        "code": "6"
+      },
+      {
+        "unit": "1 LT",
+        "price": 1153.01,
+        "code": "7"
+      },
+      {
+        "unit": "5 LT",
+        "price": 4503.94,
+        "code": "8"
+      }
+    ]
+  },
+  {
+    "name": "AMINOLITOS VIT",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 253.11,
+        "code": "9"
+      },
+      {
+        "unit": "250 ML",
+        "price": 151.8,
+        "code": "507"
+      }
+    ]
+  },
+  {
+    "name": "AMINOVIDA PUPPY",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 576.8,
+        "code": "10"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 52.7,
+        "code": "10.1"
+      }
+    ]
+  },
+  {
+    "name": "AMOXIBIO 150",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 89.33,
+        "code": "11"
+      },
+      {
+        "unit": "250 ML",
+        "price": 565.79,
+        "code": "389"
+      }
+    ]
+  },
+  {
+    "name": "AMOXIBIO 150 ",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 282.89,
+        "code": "12"
+      }
+    ]
+  },
+  {
+    "name": "AMOXIBIO 150 FORTE",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 107.2,
+        "code": "13"
+      },
+      {
+        "unit": "100 ML",
+        "price": 311.18,
+        "code": "14"
+      },
+      {
+        "unit": "250 ML",
+        "price": 622.37,
+        "code": "15"
+      }
+    ]
+  },
+  {
+    "name": "AMOXICIL",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 188.34,
+        "code": "16"
+      }
+    ]
+  },
+  {
+    "name": "AMOXIGEN ",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 129.54,
+        "code": "17"
+      },
+      {
+        "unit": "100 ML",
+        "price": 339.02,
+        "code": "18"
+      },
+      {
+        "unit": "250 ML",
+        "price": 648.57,
+        "code": "19"
+      }
+    ]
+  },
+  {
+    "name": "ANABOLIC ST ESTANOZOLOL",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 0.0,
+        "code": "20"
+      },
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "21"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "22"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "23"
+      }
+    ]
+  },
+  {
+    "name": "ANAPIRAN",
+    "format": [
+      {
+        "unit": "40 ML",
+        "price": 170.9,
+        "code": "24"
+      }
+    ]
+  },
+  {
+    "name": "ANTI ESTRES",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 569.67,
+        "code": "25"
+      },
+      {
+        "unit": "1 KG",
+        "price": 880.0,
+        "code": "403"
+      },
+      {
+        "unit": "10 KG",
+        "price": 0.0,
+        "code": "461"
+      },
+      {
+        "unit": "1X20 G",
+        "price": 28.48,
+        "code": "25.1"
+      }
+    ]
+  },
+  {
+    "name": "ANTIDIARREICO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 135.95,
+        "code": "26"
+      },
+      {
+        "unit": "250 ML",
+        "price": 271.89,
+        "code": "27"
+      },
+      {
+        "unit": "1 L",
+        "price": 906.29,
+        "code": "28"
+      },
+      {
+        "unit": "500 ML",
+        "price": 451.0,
+        "code": "429"
+      },
+      {
+        "unit": "5 LT",
+        "price": 4531.45,
+        "code": "475"
+      }
+    ]
+  },
+  {
+    "name": "B12 5.500",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 108.76,
+        "code": "29"
+      },
+      {
+        "unit": "20 TAB",
+        "price": 150.68,
+        "code": "30"
+      },
+      {
+        "unit": "100 ML",
+        "price": 620.72,
+        "code": "31"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1241.45,
+        "code": "32"
+      },
+      {
+        "unit": "5 ML",
+        "price": 74.8,
+        "code": "454"
+      },
+      {
+        "unit": "50 ML",
+        "price": 349.8,
+        "code": "455"
+      }
+    ]
+  },
+  {
+    "name": "BALSAMO BLANCO",
+    "format": [
+      {
+        "unit": "60 G",
+        "price": 73.7,
+        "code": "33"
+      },
+      {
+        "unit": "150 G",
+        "price": 154.1,
+        "code": "34"
+      },
+      {
+        "unit": "240 G",
+        "price": 246.57,
+        "code": "35"
+      }
+    ]
+  },
+  {
+    "name": "BETAMICIL",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 697.84,
+        "code": "36"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1395.69,
+        "code": "398"
+      },
+      {
+        "unit": "20 ML",
+        "price": 154.0,
+        "code": "495"
+      }
+    ]
+  },
+  {
+    "name": "BIO AZTECA",
+    "format": [
+      {
+        "unit": "60 G",
+        "price": 60.6,
+        "code": "37"
+      },
+      {
+        "unit": "150 G",
+        "price": 126.7,
+        "code": "38"
+      },
+      {
+        "unit": "240 G",
+        "price": 202.73,
+        "code": "39"
+      }
+    ]
+  },
+  {
+    "name": "BIO AZUL ATOM.",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 104.07,
+        "code": "40"
+      }
+    ]
+  },
+  {
+    "name": "BIO AZUL GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 387.11,
+        "code": "41"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 38.71,
+        "code": "41.1"
+      }
+    ]
+  },
+  {
+    "name": "BIO AZUL MASCOTAS",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 387.11,
+        "code": "42"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 38.71,
+        "code": "42.1"
+      }
+    ]
+  },
+  {
+    "name": "BIO CALCIO",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 818.9,
+        "code": "43"
+      },
+      {
+        "unit": "1 KG",
+        "price": 1310.23,
+        "code": "44"
+      },
+      {
+        "unit": "5 KG",
+        "price": 4466.72,
+        "code": "425"
+      },
+      {
+        "unit": "1X20 G",
+        "price": 37.22,
+        "code": "43.1"
+      }
+    ]
+  },
+  {
+    "name": "BIO CALCIO FORTE GALLO",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 268.0,
+        "code": "45"
+      }
+    ]
+  },
+  {
+    "name": "BIO CALCIO FORTE PUPPY",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 268.0,
+        "code": "46"
+      }
+    ]
+  },
+  {
+    "name": "BIO CITRUS",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 99.69,
+        "code": "47"
+      },
+      {
+        "unit": "1 L",
+        "price": 0.0,
+        "code": "48"
+      }
+    ]
+  },
+  {
+    "name": "BIO D TIF",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 781.68,
+        "code": "49"
+      },
+      {
+        "unit": "20X30 TAB",
+        "price": 886.04,
+        "code": "50"
+      },
+      {
+        "unit": "1 KG",
+        "price": 1298.0,
+        "code": "450"
+      },
+      {
+        "unit": "500 TAB",
+        "price": 780.0,
+        "code": "453"
+      },
+      {
+        "unit": "1X20 G",
+        "price": 37.22,
+        "code": "49.1"
+      },
+      {
+        "unit": "1X30 TAB",
+        "price": 52.12,
+        "code": "50.1"
+      }
+    ]
+  },
+  {
+    "name": "BIO DEXAVET",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 38.85,
+        "code": "51"
+      },
+      {
+        "unit": "25 ML",
+        "price": 74.45,
+        "code": "52"
+      },
+      {
+        "unit": "100 ML",
+        "price": 188.34,
+        "code": "53"
+      },
+      {
+        "unit": "250 ML",
+        "price": 376.7,
+        "code": "54"
+      },
+      {
+        "unit": "500 ML",
+        "price": 628.91,
+        "code": "55"
+      }
+    ]
+  },
+  {
+    "name": "BIO DIPIRONA",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 73.26,
+        "code": "56"
+      },
+      {
+        "unit": "250 ML",
+        "price": 393.07,
+        "code": "57"
+      },
+      {
+        "unit": "500 ML",
+        "price": 628.9,
+        "code": "58"
+      }
+    ]
+  },
+  {
+    "name": "BIO GENT FORTE",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 282.52,
+        "code": "59"
+      },
+      {
+        "unit": "250 ML",
+        "price": 565.04,
+        "code": "60"
+      }
+    ]
+  },
+  {
+    "name": "BIO HIERRRO 200",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 75.0,
+        "code": "61"
+      },
+      {
+        "unit": "20 ML",
+        "price": 136.43,
+        "code": "62"
+      },
+      {
+        "unit": "100 ML",
+        "price": 409.3,
+        "code": "63"
+      },
+      {
+        "unit": "250 ML",
+        "price": 783.3,
+        "code": "64"
+      },
+      {
+        "unit": "50 ML",
+        "price": 204.6,
+        "code": "396"
+      }
+    ]
+  },
+  {
+    "name": "BIO LZYN NF",
+    "format": [
+      {
+        "unit": "50X10 G",
+        "price": 1149.5,
+        "code": "65"
+      },
+      {
+        "unit": "1 KG",
+        "price": 2199.99,
+        "code": "438"
+      },
+      {
+        "unit": "5 KG",
+        "price": 9460.0,
+        "code": "517"
+      },
+      {
+        "unit": "1 KG",
+        "price": 1980.0,
+        "code": "541"
+      },
+      {
+        "unit": "100 GRS",
+        "price": 0.0,
+        "code": "568"
+      },
+      {
+        "unit": "1X10 G",
+        "price": 26.62,
+        "code": "65.1"
+      }
+    ]
+  },
+  {
+    "name": "BIO MELUBRIN 500",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 73.26,
+        "code": "66"
+      },
+      {
+        "unit": "100 ML",
+        "price": 196.53,
+        "code": "67"
+      },
+      {
+        "unit": "250 ML",
+        "price": 393.07,
+        "code": "68"
+      },
+      {
+        "unit": "500 ML",
+        "price": 628.9,
+        "code": "69"
+      }
+    ]
+  },
+  {
+    "name": "BIO NATURAL ICE GEL",
+    "format": [
+      {
+        "unit": "60 G",
+        "price": 80.12,
+        "code": "70"
+      },
+      {
+        "unit": "150 G",
+        "price": 158.71,
+        "code": "71"
+      },
+      {
+        "unit": "240 G",
+        "price": 193.64,
+        "code": "72"
+      }
+    ]
+  },
+  {
+    "name": "BIO PARTO 20UI/ML",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 47.64,
+        "code": "73"
+      },
+      {
+        "unit": "20 ML",
+        "price": 78.76,
+        "code": "74"
+      },
+      {
+        "unit": "100 ML",
+        "price": 236.29,
+        "code": "75"
+      },
+      {
+        "unit": "250 ML",
+        "price": 472.58,
+        "code": "76"
+      },
+      {
+        "unit": "500 ML",
+        "price": 756.13,
+        "code": "77"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN FORTE 1 MILL",
+    "format": [
+      {
+        "unit": "5 ML",
+        "price": 0.0,
+        "code": "78"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN FORTE 100 MILL",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 1782.0,
+        "code": "79"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN FORTE 20 MILL",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 592.88,
+        "code": "80"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN FORTE 50 MILL",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 1139.34,
+        "code": "81"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN FORTE DOSIS AVIAR",
+    "format": [
+      {
+        "unit": "5 ML",
+        "price": 67.01,
+        "code": "82"
+      },
+      {
+        "unit": "20 ML",
+        "price": 224.4,
+        "code": "497"
+      }
+    ]
+  },
+  {
+    "name": "BIO PORUT",
+    "format": [
+      {
+        "unit": "60 G",
+        "price": 59.55,
+        "code": "83"
+      },
+      {
+        "unit": "150 G",
+        "price": 124.29,
+        "code": "84"
+      }
+    ]
+  },
+  {
+    "name": "BIO RESPIL",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 64.9,
+        "code": "85"
+      },
+      {
+        "unit": "25 ML",
+        "price": 114.64,
+        "code": "86"
+      },
+      {
+        "unit": "100 ML",
+        "price": 347.22,
+        "code": "87"
+      },
+      {
+        "unit": "250 ML",
+        "price": 694.42,
+        "code": "88"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1110.43,
+        "code": "89"
+      },
+      {
+        "unit": "50 ML",
+        "price": 282.9,
+        "code": "392"
+      }
+    ]
+  },
+  {
+    "name": "BIO SARNA",
+    "format": [
+      {
+        "unit": "60 G",
+        "price": 65.52,
+        "code": "90"
+      },
+      {
+        "unit": "150 G",
+        "price": 131.03,
+        "code": "91"
+      },
+      {
+        "unit": "240 G",
+        "price": 163.78,
+        "code": "92"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMI CACHORRO",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 150.68,
+        "code": "93"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMI CAN",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 169.08,
+        "code": "94"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMI CAN GOLD",
+    "format": [
+      {
+        "unit": "17X15 TAB",
+        "price": 1340.02,
+        "code": "95"
+      },
+      {
+        "unit": "30 TAB",
+        "price": 188.34,
+        "code": "96"
+      },
+      {
+        "unit": "1X15 TAB",
+        "price": 81.9,
+        "code": "95.1"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMI GALLO",
+    "format": [
+      {
+        "unit": "20X30 TAB",
+        "price": 1488.91,
+        "code": "97"
+      },
+      {
+        "unit": "20 TAB",
+        "price": 120.71,
+        "code": "98"
+      },
+      {
+        "unit": "1X30 TAB",
+        "price": 81.9,
+        "code": "97.1"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMISOL 12.5 %",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 178.67,
+        "code": "99"
+      },
+      {
+        "unit": "250 ML",
+        "price": 357.34,
+        "code": "100"
+      },
+      {
+        "unit": "500 ML",
+        "price": 573.23,
+        "code": "101"
+      },
+      {
+        "unit": "25 ML",
+        "price": 50.0,
+        "code": "574"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMISOL 15 %",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 148.9,
+        "code": "102"
+      },
+      {
+        "unit": "250 ML",
+        "price": 297.78,
+        "code": "103"
+      },
+      {
+        "unit": "500 ML",
+        "price": 553.87,
+        "code": "104"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMISOL ADE",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 189.75,
+        "code": "105"
+      },
+      {
+        "unit": "250 ML",
+        "price": 379.5,
+        "code": "106"
+      },
+      {
+        "unit": "500 ML",
+        "price": 786.5,
+        "code": "107"
+      },
+      {
+        "unit": "50 ML",
+        "price": 101.2,
+        "code": "523"
+      }
+    ]
+  },
+  {
+    "name": "BIO VIT OTIC",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 786.15,
+        "code": "108"
+      },
+      {
+        "unit": "1 KG",
+        "price": 759.0,
+        "code": "472"
+      },
+      {
+        "unit": "5 KG",
+        "price": 3430.0,
+        "code": "557"
+      },
+      {
+        "unit": "1x20 G",
+        "price": 37.22,
+        "code": "108.1"
+      }
+    ]
+  },
+  {
+    "name": "BIO VITAL 5.500",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 109.73,
+        "code": "109"
+      },
+      {
+        "unit": "20 TAB",
+        "price": 163.78,
+        "code": "110"
+      },
+      {
+        "unit": "100 ML",
+        "price": 753.38,
+        "code": "111"
+      }
+    ]
+  },
+  {
+    "name": "BIOLINIMENTO CABALLO",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 116.14,
+        "code": "112"
+      }
+    ]
+  },
+  {
+    "name": "BIOOLINIMNETO FUTBOL",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 116.14,
+        "code": "113"
+      }
+    ]
+  },
+  {
+    "name": "BIOTRYL ORAL",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 607.2,
+        "code": "114"
+      }
+    ]
+  },
+  {
+    "name": "BIOTRYL ORAL 5mg/5ml MASCOTAS",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 302.96,
+        "code": "115"
+      }
+    ]
+  },
+  {
+    "name": "BOLDEVET",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "116"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "485"
+      }
+    ]
+  },
+  {
+    "name": "BOLDEVET ",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "117"
+      }
+    ]
+  },
+  {
+    "name": "BOVI VET 2",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "118"
+      }
+    ]
+  },
+  {
+    "name": "BOVI VET 3",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "119"
+      }
+    ]
+  },
+  {
+    "name": "CALCIO NEGRO PROTEICO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 301.35,
+        "code": "120"
+      },
+      {
+        "unit": "250 ML",
+        "price": 576.51,
+        "code": "121"
+      }
+    ]
+  },
+  {
+    "name": "CALCIO NEGRO SENCILLO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 268.0,
+        "code": "122"
+      },
+      {
+        "unit": "500 ML",
+        "price": 521.11,
+        "code": "123"
+      }
+    ]
+  },
+  {
+    "name": "CALCIO NF 500 ",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 334.11,
+        "code": "124"
+      },
+      {
+        "unit": "250 ML",
+        "price": 668.23,
+        "code": "125"
+      }
+    ]
+  },
+  {
+    "name": "CALCIO PROTEINOL VITAMINADO",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 372.23,
+        "code": "126"
+      }
+    ]
+  },
+  {
+    "name": "CALFORVET ORAL",
+    "format": [
+      {
+        "unit": "300 ML",
+        "price": 245.67,
+        "code": "127"
+      }
+    ]
+  },
+  {
+    "name": "CANOVET",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 290.95,
+        "code": "128"
+      }
+    ]
+  },
+  {
+    "name": "CATAFOSGEN + B12",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 147.4,
+        "code": "129"
+      },
+      {
+        "unit": "100 ML",
+        "price": 470.87,
+        "code": "130"
+      },
+      {
+        "unit": "250 ML",
+        "price": 941.73,
+        "code": "131"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1840.0,
+        "code": "598"
+      }
+    ]
+  },
+  {
+    "name": "CATARROL IM",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 108.79,
+        "code": "132"
+      },
+      {
+        "unit": "100 ML",
+        "price": 290.95,
+        "code": "133"
+      }
+    ]
+  },
+  {
+    "name": "CATARROL ORAL",
+    "format": [
+      {
+        "unit": "15 ML",
+        "price": 101.2,
+        "code": "134"
+      },
+      {
+        "unit": "100 ML",
+        "price": 283.36,
+        "code": "135"
+      },
+      {
+        "unit": "1 L",
+        "price": 2277.0,
+        "code": "136"
+      },
+      {
+        "unit": "150 ML",
+        "price": 300.0,
+        "code": "150"
+      }
+    ]
+  },
+  {
+    "name": "CATARROL RUMIANTES",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 550.55,
+        "code": "137"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1101.1,
+        "code": "138"
+      }
+    ]
+  },
+  {
+    "name": "CATARROL TAB",
+    "format": [
+      {
+        "unit": "20 TAB",
+        "price": 151.8,
+        "code": "139"
+      }
+    ]
+  },
+  {
+    "name": "CEFAXIN",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 269.46,
+        "code": "140"
+      }
+    ]
+  },
+  {
+    "name": "CEFTIBIO MASTITIS",
+    "format": [
+      {
+        "unit": "12X10 ML",
+        "price": 572.0,
+        "code": "141"
+      },
+      {
+        "unit": "1X10 ML",
+        "price": 50.6,
+        "code": "141.1"
+      }
+    ]
+  },
+  {
+    "name": "CEFTIBIO RTU",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 626.64,
+        "code": "142"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1253.27,
+        "code": "143"
+      }
+    ]
+  },
+  {
+    "name": "CEPTIO FUR",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 227.87,
+        "code": "144"
+      },
+      {
+        "unit": "100 ML",
+        "price": 626.64,
+        "code": "145"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1253.27,
+        "code": "146"
+      }
+    ]
+  },
+  {
+    "name": "CICATRISAN ATOM",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 158.13,
+        "code": "147"
+      }
+    ]
+  },
+  {
+    "name": "CICATROL ATOM",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 158.13,
+        "code": "148"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT ADE PLUS + B",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 1020.0,
+        "code": "149"
+      }
+    ]
+  },
+  {
+    "name": "COCCIBIO",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 140.84,
+        "code": "151"
+      },
+      {
+        "unit": "20X30 TAB",
+        "price": 1815.0,
+        "code": "152"
+      },
+      {
+        "unit": "1 L",
+        "price": 1936.0,
+        "code": "155"
+      },
+      {
+        "unit": "1X30 TAB",
+        "price": 108.9,
+        "code": "152.1"
+      }
+    ]
+  },
+  {
+    "name": "COCCIBIO GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 1028.5,
+        "code": "153"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 96.8,
+        "code": "153.1"
+      }
+    ]
+  },
+  {
+    "name": "COCCIBIO PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 1028.5,
+        "code": "154"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 96.8,
+        "code": "154.1"
+      }
+    ]
+  },
+  {
+    "name": "COCCIBIO SOLUBLE",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 907.5,
+        "code": "156"
+      },
+      {
+        "unit": "1 KG",
+        "price": 1507.0,
+        "code": "540"
+      },
+      {
+        "unit": "1X20 G",
+        "price": 42.35,
+        "code": "156.1"
+      }
+    ]
+  },
+  {
+    "name": "COMPLEX B+ ADE",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 87.32,
+        "code": "157"
+      },
+      {
+        "unit": "100 ML",
+        "price": 269.46,
+        "code": "158"
+      },
+      {
+        "unit": "250 ML",
+        "price": 538.91,
+        "code": "159"
+      },
+      {
+        "unit": "500 ML",
+        "price": 901.44,
+        "code": "160"
+      },
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "539"
+      }
+    ]
+  },
+  {
+    "name": "CYANO COBALAMIN HIDROXO 2000",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "161"
+      }
+    ]
+  },
+  {
+    "name": "CYANO COBALAMIN HIDROXO 6000",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 108.76,
+        "code": "162"
+      },
+      {
+        "unit": "100 ML",
+        "price": 640.23,
+        "code": "163"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "164"
+      }
+    ]
+  },
+  {
+    "name": "DIARRECAN",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 139.57,
+        "code": "165"
+      }
+    ]
+  },
+  {
+    "name": "DICLOFENACO 4%",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 68.49,
+        "code": "166"
+      },
+      {
+        "unit": "100 ML",
+        "price": 217.76,
+        "code": "167"
+      },
+      {
+        "unit": "250 ML",
+        "price": 435.51,
+        "code": "168"
+      },
+      {
+        "unit": "500 ML",
+        "price": 823.9,
+        "code": "169"
+      }
+    ]
+  },
+  {
+    "name": "DICLOFENACO 5%",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "170"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "553"
+      },
+      {
+        "unit": "100 ML",
+        "price": 250.0,
+        "code": "583"
+      }
+    ]
+  },
+  {
+    "name": "DIFURSAN",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 783.3,
+        "code": "171"
+      },
+      {
+        "unit": "1 KG",
+        "price": 1188.0,
+        "code": "451"
+      }
+    ]
+  },
+  {
+    "name": "DIMETRIGEN SOLUCION",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 234.99,
+        "code": "172"
+      },
+      {
+        "unit": "250 ML",
+        "price": 469.98,
+        "code": "173"
+      },
+      {
+        "unit": "20 ML",
+        "price": 68.0,
+        "code": "459"
+      },
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "460"
+      }
+    ]
+  },
+  {
+    "name": "DIMETRIGEN SUSPENSION",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 234.99,
+        "code": "174"
+      },
+      {
+        "unit": "250 ML",
+        "price": 469.98,
+        "code": "175"
+      }
+    ]
+  },
+  {
+    "name": "DIPIROTRIL",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 68.37,
+        "code": "176"
+      },
+      {
+        "unit": "100 ML",
+        "price": 188.34,
+        "code": "177"
+      },
+      {
+        "unit": "250 ML",
+        "price": 376.7,
+        "code": "178"
+      },
+      {
+        "unit": "500 ML",
+        "price": 602.71,
+        "code": "179"
+      },
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "408"
+      }
+    ]
+  },
+  {
+    "name": "DOLATAC",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 139.22,
+        "code": "180"
+      }
+    ]
+  },
+  {
+    "name": "ELECTRO BIO ",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 405.35,
+        "code": "181"
+      },
+      {
+        "unit": "24X100G",
+        "price": 0.0,
+        "code": "393"
+      },
+      {
+        "unit": "5 KG",
+        "price": 1450.0,
+        "code": "558"
+      }
+    ]
+  },
+  {
+    "name": "ENROBIO 50",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 56.58,
+        "code": "182"
+      },
+      {
+        "unit": "100 ML",
+        "price": 160.5,
+        "code": "183"
+      },
+      {
+        "unit": "250 ML",
+        "price": 321.0,
+        "code": "184"
+      },
+      {
+        "unit": "500 ML",
+        "price": 513.61,
+        "code": "185"
+      }
+    ]
+  },
+  {
+    "name": "ENROBIO 100",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 74.45,
+        "code": "186"
+      },
+      {
+        "unit": "100 ML",
+        "price": 208.45,
+        "code": "187"
+      },
+      {
+        "unit": "250 ML",
+        "price": 416.89,
+        "code": "188"
+      },
+      {
+        "unit": "500 ML",
+        "price": 655.12,
+        "code": "189"
+      },
+      {
+        "unit": "10 ML",
+        "price": 37.4,
+        "code": "411"
+      }
+    ]
+  },
+  {
+    "name": "ENROFLAXINA 150 FORTE L.A.",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 268.0,
+        "code": "190"
+      },
+      {
+        "unit": "250 ML",
+        "price": 576.4,
+        "code": "520"
+      }
+    ]
+  },
+  {
+    "name": "ENROTAB",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 157.53,
+        "code": "191"
+      }
+    ]
+  },
+  {
+    "name": "EQUINO VET",
+    "format": [
+      {
+        "unit": "2X10 ML",
+        "price": 220.36,
+        "code": "192"
+      }
+    ]
+  },
+  {
+    "name": "EQUIPOISE",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 0.0,
+        "code": "193"
+      },
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "194"
+      }
+    ]
+  },
+  {
+    "name": "ERCAVET",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 117.92,
+        "code": "195"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "585"
+      }
+    ]
+  },
+  {
+    "name": "ESTREPTO PLUS",
+    "format": [
+      {
+        "unit": "6 MILL",
+        "price": 160.5,
+        "code": "196"
+      }
+    ]
+  },
+  {
+    "name": "ESTREPTO QUIM",
+    "format": [
+      {
+        "unit": "6 MILL",
+        "price": 160.5,
+        "code": "197"
+      },
+      {
+        "unit": "8 MILL",
+        "price": 179.3,
+        "code": "516"
+      },
+      {
+        "unit": "2 MILL",
+        "price": 93.5,
+        "code": "524"
+      },
+      {
+        "unit": "4 MILL",
+        "price": 137.5,
+        "code": "525"
+      }
+    ]
+  },
+  {
+    "name": "FENIL-BUTAVET",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 446.68,
+        "code": "198"
+      }
+    ]
+  },
+  {
+    "name": "FLOR BIO 300",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 455.4,
+        "code": "199"
+      },
+      {
+        "unit": "250 ML",
+        "price": 910.8,
+        "code": "200"
+      }
+    ]
+  },
+  {
+    "name": "FLUMICINA",
+    "format": [
+      {
+        "unit": "6 MILL",
+        "price": 163.78,
+        "code": "201"
+      },
+      {
+        "unit": "4 MILL",
+        "price": 136.28,
+        "code": "503"
+      }
+    ]
+  },
+  {
+    "name": "FLUMICINA FORTE GALLO",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 126.5,
+        "code": "202"
+      }
+    ]
+  },
+  {
+    "name": "FLUNYDINE",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 101.52,
+        "code": "203"
+      },
+      {
+        "unit": "20 ML",
+        "price": 203.04,
+        "code": "204"
+      },
+      {
+        "unit": "100 ML",
+        "price": 744.46,
+        "code": "205"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1218.2,
+        "code": "206"
+      }
+    ]
+  },
+  {
+    "name": "FLUNYDINE FORTE",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "207"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "208"
+      }
+    ]
+  },
+  {
+    "name": "FOSFO ADE",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 2243.07,
+        "code": "209"
+      }
+    ]
+  },
+  {
+    "name": "GARROTILLO",
+    "format": [
+      {
+        "unit": "20 TAB",
+        "price": 167.81,
+        "code": "210"
+      }
+    ]
+  },
+  {
+    "name": "GARROTILLO EQUINOS",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 632.5,
+        "code": "211"
+      }
+    ]
+  },
+  {
+    "name": "GASTRO INMUNO CAN",
+    "format": [
+      {
+        "unit": "5 ML",
+        "price": 160.09,
+        "code": "212"
+      },
+      {
+        "unit": "30 ML",
+        "price": 517.0,
+        "code": "556"
+      }
+    ]
+  },
+  {
+    "name": "GASTRO INMUNO GALLO",
+    "format": [
+      {
+        "unit": "3 ML",
+        "price": 94.18,
+        "code": "213"
+      }
+    ]
+  },
+  {
+    "name": "GENTABIO 100",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 78.76,
+        "code": "214"
+      },
+      {
+        "unit": "100 ML",
+        "price": 226.02,
+        "code": "215"
+      },
+      {
+        "unit": "250 ML",
+        "price": 452.03,
+        "code": "216"
+      },
+      {
+        "unit": "500 ML",
+        "price": 723.25,
+        "code": "217"
+      }
+    ]
+  },
+  {
+    "name": "GRIPA CAN IM",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 135.52,
+        "code": "218"
+      }
+    ]
+  },
+  {
+    "name": "GRIPA GALLO",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 278.3,
+        "code": "219"
+      }
+    ]
+  },
+  {
+    "name": "HANOVER`S HAN SUPER B-150 INJECTION",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 220.0,
+        "code": "220"
+      }
+    ]
+  },
+  {
+    "name": "HISTAMIN",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 243.21,
+        "code": "221"
+      }
+    ]
+  },
+  {
+    "name": "HISTAMIN ",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 486.42,
+        "code": "222"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT ALFA",
+    "format": [
+      {
+        "unit": "0",
+        "price": 0.0,
+        "code": "223"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT BETA",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "224"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT E + SELENIO",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "225"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT OMEGA ",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "226"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT YAMMA",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "227"
+      }
+    ]
+  },
+  {
+    "name": "INMUNO FORTE",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 82.5,
+        "code": "228"
+      },
+      {
+        "unit": "100 ML",
+        "price": 189.75,
+        "code": "229"
+      },
+      {
+        "unit": "250 ML",
+        "price": 330.0,
+        "code": "230"
+      },
+      {
+        "unit": "500 ML",
+        "price": 649.0,
+        "code": "231"
+      }
+    ]
+  },
+  {
+    "name": "INMUNO FORTE  PUPPY",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 0.0,
+        "code": "232"
+      }
+    ]
+  },
+  {
+    "name": "INMUNO FORTE GALLO ",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 0.0,
+        "code": "233"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 85.04,
+        "code": "234"
+      },
+      {
+        "unit": "100 ML",
+        "price": 233.42,
+        "code": "235"
+      },
+      {
+        "unit": "250 ML",
+        "price": 466.84,
+        "code": "236"
+      },
+      {
+        "unit": "500 ML",
+        "price": 745.7,
+        "code": "237"
+      },
+      {
+        "unit": "50 ML",
+        "price": 118.8,
+        "code": "456"
+      },
+      {
+        "unit": "10 ML",
+        "price": 57.2,
+        "code": "477"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX 3.5 % GOLD",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 674.98,
+        "code": "238"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1350.39,
+        "code": "239"
+      },
+      {
+        "unit": "500 ML",
+        "price": 2357.06,
+        "code": "240"
+      },
+      {
+        "unit": "50 ML",
+        "price": 338.0,
+        "code": "571"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX ADE ",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 177.42,
+        "code": "241"
+      },
+      {
+        "unit": "100 ML",
+        "price": 450.4,
+        "code": "242"
+      },
+      {
+        "unit": "250 ML",
+        "price": 900.79,
+        "code": "243"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1441.25,
+        "code": "244"
+      },
+      {
+        "unit": "50 ML",
+        "price": 125.0,
+        "code": "457"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX ADE PASTA",
+    "format": [
+      {
+        "unit": "30 ML",
+        "price": 216.19,
+        "code": "245"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX B12",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 116.28,
+        "code": "246"
+      },
+      {
+        "unit": "100 ML",
+        "price": 333.69,
+        "code": "247"
+      },
+      {
+        "unit": "250 ML",
+        "price": 667.36,
+        "code": "248"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1067.79,
+        "code": "249"
+      },
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "428"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX F",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 228.21,
+        "code": "250"
+      },
+      {
+        "unit": "100 ML",
+        "price": 684.6,
+        "code": "251"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1369.2,
+        "code": "252"
+      },
+      {
+        "unit": "500 ML",
+        "price": 2289.64,
+        "code": "253"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX F PEQUEÑOS RUMINANTES",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 102.73,
+        "code": "254"
+      },
+      {
+        "unit": "100 ML",
+        "price": 307.63,
+        "code": "255"
+      },
+      {
+        "unit": "250 ML",
+        "price": 666.51,
+        "code": "256"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1066.43,
+        "code": "257"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX PREMIX",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 861.63,
+        "code": "258"
+      },
+      {
+        "unit": "1 KG",
+        "price": 1320.0,
+        "code": "435"
+      },
+      {
+        "unit": "10 KG",
+        "price": 5313.0,
+        "code": "522"
+      },
+      {
+        "unit": "1X20 G",
+        "price": 38.46,
+        "code": "258.1"
+      }
+    ]
+  },
+  {
+    "name": "INVERSOL 1 % PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 640.88,
+        "code": "259"
+      },
+      {
+        "unit": "1X12 ML",
+        "price": 58.4,
+        "code": "259.1"
+      }
+    ]
+  },
+  {
+    "name": "INVERSOL 1 % GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 640.88,
+        "code": "260"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 58.4,
+        "code": "260.1"
+      }
+    ]
+  },
+  {
+    "name": "INVERSOL 1 % PUPPY",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 640.88,
+        "code": "261"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 58.4,
+        "code": "261.1"
+      }
+    ]
+  },
+  {
+    "name": "INVERSOL ADE PASTA",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 126.5,
+        "code": "262"
+      }
+    ]
+  },
+  {
+    "name": "INVERSOL ADE PASTA FORTE",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 149.6,
+        "code": "263"
+      }
+    ]
+  },
+  {
+    "name": "IVER CLOSAN",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 1346.49,
+        "code": "264"
+      },
+      {
+        "unit": "50 ML",
+        "price": 432.3,
+        "code": "496"
+      },
+      {
+        "unit": "100 ML",
+        "price": 707.3,
+        "code": "498"
+      }
+    ]
+  },
+  {
+    "name": "IVER GOLD MASTER",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "265"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "266"
+      }
+    ]
+  },
+  {
+    "name": "IVER GOLD MAX",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "267"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "268"
+      }
+    ]
+  },
+  {
+    "name": "IVERCIBOL FORTE ",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "269"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "270"
+      }
+    ]
+  },
+  {
+    "name": "KETOCORODOL IM",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 491.35,
+        "code": "271"
+      }
+    ]
+  },
+  {
+    "name": "LAMICIL 100/FORTE",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 35.74,
+        "code": "272"
+      },
+      {
+        "unit": "20 ML",
+        "price": 59.55,
+        "code": "273"
+      },
+      {
+        "unit": "100 ML",
+        "price": 160.09,
+        "code": "274"
+      },
+      {
+        "unit": "250 ML",
+        "price": 320.19,
+        "code": "275"
+      },
+      {
+        "unit": "500 ML",
+        "price": 491.35,
+        "code": "276"
+      }
+    ]
+  },
+  {
+    "name": "LINCO FLOR",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 332.07,
+        "code": "277"
+      },
+      {
+        "unit": "250 ML",
+        "price": 750.75,
+        "code": "278"
+      },
+      {
+        "unit": "50 ML",
+        "price": 196.9,
+        "code": "404"
+      },
+      {
+        "unit": "20 ML",
+        "price": 143.0,
+        "code": "466"
+      }
+    ]
+  },
+  {
+    "name": "MAMI BIO",
+    "format": [
+      {
+        "unit": "60 G",
+        "price": 61.05,
+        "code": "279"
+      },
+      {
+        "unit": "150 G",
+        "price": 128.43,
+        "code": "280"
+      }
+    ]
+  },
+  {
+    "name": "MAMI BIO ",
+    "format": [
+      {
+        "unit": "240 G",
+        "price": 157.22,
+        "code": "281"
+      }
+    ]
+  },
+  {
+    "name": "MASTI BIO FORTE",
+    "format": [
+      {
+        "unit": "12X10 ML",
+        "price": 640.88,
+        "code": "282"
+      }
+    ]
+  },
+  {
+    "name": "MELOCAM",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 150.68,
+        "code": "283"
+      },
+      {
+        "unit": "100 ML",
+        "price": 432.38,
+        "code": "284"
+      },
+      {
+        "unit": "250 ML",
+        "price": 864.75,
+        "code": "285"
+      },
+      {
+        "unit": "10 ML",
+        "price": 88.0,
+        "code": "401"
+      }
+    ]
+  },
+  {
+    "name": "MELOXICAN CHICOS",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 133.87,
+        "code": "286"
+      }
+    ]
+  },
+  {
+    "name": "MOSKAZOL",
+    "format": [
+      {
+        "unit": "1 LT",
+        "price": 409.45,
+        "code": "287"
+      },
+      {
+        "unit": "5 LT",
+        "price": 0.0,
+        "code": "596"
+      }
+    ]
+  },
+  {
+    "name": "MOSKAZOL GALLO",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 139.96,
+        "code": "288"
+      }
+    ]
+  },
+  {
+    "name": "MOSKAZOL PUPPY",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 139.96,
+        "code": "289"
+      }
+    ]
+  },
+  {
+    "name": "MUCOTRYL 100 IM",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 77.68,
+        "code": "290"
+      },
+      {
+        "unit": "100 ML",
+        "price": 341.8,
+        "code": "291"
+      },
+      {
+        "unit": "250 ML",
+        "price": 714.67,
+        "code": "292"
+      }
+    ]
+  },
+  {
+    "name": "MUCOTRYL 100 ORAL",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 169.4,
+        "code": "293"
+      }
+    ]
+  },
+  {
+    "name": "NANDRO BOLD PLUS ",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "294"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "400"
+      }
+    ]
+  },
+  {
+    "name": "NANDROLON",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "295"
+      }
+    ]
+  },
+  {
+    "name": "NANDROLON 300 LA",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "296"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "534"
+      }
+    ]
+  },
+  {
+    "name": "NEUMO ESPECTOL",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 704.97,
+        "code": "297"
+      },
+      {
+        "unit": "1 KG",
+        "price": 1078.0,
+        "code": "422"
+      },
+      {
+        "unit": "100 GRS",
+        "price": 0.0,
+        "code": "471"
+      },
+      {
+        "unit": "10 KG",
+        "price": 5280.0,
+        "code": "473"
+      },
+      {
+        "unit": "1X20 G",
+        "price": 35.61,
+        "code": "297.1"
+      }
+    ]
+  },
+  {
+    "name": "OMEGA CAN",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 228.4,
+        "code": "298"
+      }
+    ]
+  },
+  {
+    "name": "OPTIZAN",
+    "format": [
+      {
+        "unit": "15 ML",
+        "price": 113.94,
+        "code": "299"
+      }
+    ]
+  },
+  {
+    "name": "OXANDRO FRATO",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 0.0,
+        "code": "300"
+      }
+    ]
+  },
+  {
+    "name": "OXIMETA VET ",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 0.0,
+        "code": "301"
+      }
+    ]
+  },
+  {
+    "name": "OXITETRACLOR ANTIDIARREICO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 512.28,
+        "code": "302"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "302.1"
+      }
+    ]
+  },
+  {
+    "name": "OXITETRACLOR ANTIDIARREICO PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 512.28,
+        "code": "303"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "303.1"
+      }
+    ]
+  },
+  {
+    "name": "PENISTREPTO",
+    "format": [
+      {
+        "unit": "50 MILL",
+        "price": 783.3,
+        "code": "304"
+      }
+    ]
+  },
+  {
+    "name": "PIROXIDEX 8%",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 372.23,
+        "code": "305"
+      },
+      {
+        "unit": "250 ML",
+        "price": 786.5,
+        "code": "306"
+      }
+    ]
+  },
+  {
+    "name": "POWER FORCE B12/5. 500",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 257.14,
+        "code": "307"
+      },
+      {
+        "unit": "100 ML",
+        "price": 669.86,
+        "code": "308"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1339.71,
+        "code": "309"
+      }
+    ]
+  },
+  {
+    "name": "POWER TREM",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "310"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "462"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "586"
+      }
+    ]
+  },
+  {
+    "name": "PUPPY LAX",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 122.87,
+        "code": "311"
+      }
+    ]
+  },
+  {
+    "name": "RADIX CIANOCOBALAMIN VTAMINA B12",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 595.56,
+        "code": "312"
+      },
+      {
+        "unit": "10 ML",
+        "price": 97.76,
+        "code": "493"
+      }
+    ]
+  },
+  {
+    "name": "RANITIN",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 119.11,
+        "code": "313"
+      }
+    ]
+  },
+  {
+    "name": "ROOSTER 6.000",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 146.41,
+        "code": "314"
+      }
+    ]
+  },
+  {
+    "name": "SHAMPOO",
+    "format": [
+      {
+        "unit": "1 L",
+        "price": 327.56,
+        "code": "315"
+      }
+    ]
+  },
+  {
+    "name": "SUERO GLUCOSADO DX",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 119.11,
+        "code": "316"
+      }
+    ]
+  },
+  {
+    "name": "SUERO SALINO FISIOLOGICO",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 98.26,
+        "code": "317"
+      }
+    ]
+  },
+  {
+    "name": "TESTO TETRA",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "318"
+      }
+    ]
+  },
+  {
+    "name": "ANABOLICO TESTOSTERONA 200",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "319"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "320"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "603"
+      }
+    ]
+  },
+  {
+    "name": "TONICO 5500 ADE + COMPLEJO B",
+    "format": [
+      {
+        "unit": "15 ML",
+        "price": 125.33,
+        "code": "321"
+      }
+    ]
+  },
+  {
+    "name": "TONICO CAMBIO PLUMA PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "322"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "322.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO CAMBIO PLUMA GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "323"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "323.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO CANTO PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "324"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "324.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO EXPECTORANTE PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "325"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "325.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO PARLOTEAR COTORROS",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "326"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "326.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO PELEA GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "327"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "327.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO POSTURA PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "328"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "328.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO POSTURA GALLINA",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "329"
+      }
+    ]
+  },
+  {
+    "name": "TONICO VIT. CON. GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "330"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "330.1"
+      }
+    ]
+  },
+  {
+    "name": "TRESULFAS 20 %",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 136.72,
+        "code": "331"
+      },
+      {
+        "unit": "250 ML",
+        "price": 273.44,
+        "code": "332"
+      },
+      {
+        "unit": "500 ML",
+        "price": 437.5,
+        "code": "333"
+      }
+    ]
+  },
+  {
+    "name": "TRESULFAS 20 % FORTIFICADA",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 160.5,
+        "code": "334"
+      },
+      {
+        "unit": "250 ML",
+        "price": 321.01,
+        "code": "335"
+      },
+      {
+        "unit": "500 ML",
+        "price": 514.4,
+        "code": "336"
+      }
+    ]
+  },
+  {
+    "name": "TRIBENZATIL",
+    "format": [
+      {
+        "unit": "6 MILL",
+        "price": 150.68,
+        "code": "337"
+      },
+      {
+        "unit": "12 MILL",
+        "price": 288.24,
+        "code": "338"
+      },
+      {
+        "unit": "50 MILL",
+        "price": 858.0,
+        "code": "339"
+      },
+      {
+        "unit": "4 MILL",
+        "price": 0.0,
+        "code": "537"
+      }
+    ]
+  },
+  {
+    "name": "TRIBENZATIL PUPPY",
+    "format": [
+      {
+        "unit": "1/2 MILL",
+        "price": 85.16,
+        "code": "340"
+      },
+      {
+        "unit": "1 MILL",
+        "price": 129.62,
+        "code": "490"
+      }
+    ]
+  },
+  {
+    "name": "TRIBENZATIL AVIAR",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 94.0,
+        "code": "341"
+      }
+    ]
+  },
+  {
+    "name": "TYLMICO 400 FLOR",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 895.4,
+        "code": "342"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1790.8,
+        "code": "343"
+      }
+    ]
+  },
+  {
+    "name": "TYLOBIO 200",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 113.94,
+        "code": "344"
+      },
+      {
+        "unit": "100 ML",
+        "price": 273.97,
+        "code": "345"
+      },
+      {
+        "unit": "250 ML",
+        "price": 547.92,
+        "code": "346"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1089.0,
+        "code": "504"
+      }
+    ]
+  },
+  {
+    "name": "VERMI FORTE",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 123.76,
+        "code": "347"
+      }
+    ]
+  },
+  {
+    "name": "VIROTOL FORTE GALLO",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 309.55,
+        "code": "348"
+      }
+    ]
+  },
+  {
+    "name": "VIROTOL FORTE PUPPY",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 309.55,
+        "code": "349"
+      }
+    ]
+  },
+  {
+    "name": "VIT ADE",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 871.02,
+        "code": "350"
+      }
+    ]
+  },
+  {
+    "name": "VITACOM B",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 56.58,
+        "code": "351"
+      },
+      {
+        "unit": "100 ML",
+        "price": 150.68,
+        "code": "352"
+      },
+      {
+        "unit": "250 ML",
+        "price": 288.24,
+        "code": "353"
+      },
+      {
+        "unit": "500 ML",
+        "price": 481.51,
+        "code": "354"
+      }
+    ]
+  },
+  {
+    "name": "VITACOMPLEX",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 167.38,
+        "code": "355"
+      },
+      {
+        "unit": "250 ML",
+        "price": 320.19,
+        "code": "356"
+      },
+      {
+        "unit": "500 ML",
+        "price": 510.99,
+        "code": "357"
+      }
+    ]
+  },
+  {
+    "name": "VITAE + SELENIO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 308.63,
+        "code": "358"
+      },
+      {
+        "unit": "250 ML",
+        "price": 617.23,
+        "code": "359"
+      },
+      {
+        "unit": "500 ML",
+        "price": 987.58,
+        "code": "360"
+      },
+      {
+        "unit": "20 ML",
+        "price": 126.5,
+        "code": "542"
+      }
+    ]
+  },
+  {
+    "name": "VITAMIN B COMPLEX",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 199.39,
+        "code": "361"
+      },
+      {
+        "unit": "250 ML",
+        "price": 398.77,
+        "code": "362"
+      },
+      {
+        "unit": "20 ML",
+        "price": 60.5,
+        "code": "501"
+      },
+      {
+        "unit": "500 ML",
+        "price": 740.0,
+        "code": "594"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINA ADE",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 95.0,
+        "code": "363"
+      },
+      {
+        "unit": "100 ML",
+        "price": 272.59,
+        "code": "364"
+      },
+      {
+        "unit": "250 ML",
+        "price": 545.18,
+        "code": "365"
+      },
+      {
+        "unit": "500 ML",
+        "price": 871.02,
+        "code": "366"
+      },
+      {
+        "unit": "50 ML",
+        "price": 140.0,
+        "code": "502"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINA ADE + COMPLEJO B",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 327.1,
+        "code": "367"
+      },
+      {
+        "unit": "250 ML",
+        "price": 654.21,
+        "code": "368"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1045.22,
+        "code": "369"
+      },
+      {
+        "unit": "50 ML",
+        "price": 167.2,
+        "code": "452"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINA K",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 356.05,
+        "code": "370"
+      },
+      {
+        "unit": "20 ML",
+        "price": 94.6,
+        "code": "554"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINA NEGRA",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 71.92,
+        "code": "371"
+      },
+      {
+        "unit": "100 ML",
+        "price": 207.19,
+        "code": "372"
+      },
+      {
+        "unit": "250 ML",
+        "price": 414.36,
+        "code": "373"
+      },
+      {
+        "unit": "500 ML",
+        "price": 662.97,
+        "code": "374"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINA NEGRA PROTEICA",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 372.23,
+        "code": "375"
+      },
+      {
+        "unit": "1X10 ML",
+        "price": 64.1,
+        "code": "376"
+      },
+      {
+        "unit": "12X10 ML",
+        "price": 684.6,
+        "code": "377"
+      }
+    ]
+  },
+  {
+    "name": "YATRINMUNE",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 113.0,
+        "code": "378"
+      },
+      {
+        "unit": "100 ML",
+        "price": 311.67,
+        "code": "379"
+      },
+      {
+        "unit": "250 ML",
+        "price": 623.5,
+        "code": "380"
+      },
+      {
+        "unit": "500 ML",
+        "price": 997.6,
+        "code": "381"
+      },
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "405"
+      }
+    ]
+  },
+  {
+    "name": "YATRINMUNE CUIDA",
+    "format": [
+      {
+        "unit": "12 ML",
+        "price": 156.66,
+        "code": "382"
+      }
+    ]
+  },
+  {
+    "name": "YATRINMUNE GALLO",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 206.79,
+        "code": "383"
+      }
+    ]
+  },
+  {
+    "name": "IVERVETT FORTE 5X5",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 2681.8,
+        "code": "384"
+      }
+    ]
+  },
+  {
+    "name": "TONICO VIT CON. PAJARO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "385"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "385.1"
+      }
+    ]
+  },
+  {
+    "name": "METABIO LAC",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 372.23,
+        "code": "386"
+      }
+    ]
+  },
+  {
+    "name": "SECABIO FORTE",
+    "format": [
+      {
+        "unit": "12X10 ML",
+        "price": 665.5,
+        "code": "387"
+      }
+    ]
+  },
+  {
+    "name": "BIO DEXAVET ",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 101.2,
+        "code": "388"
+      }
+    ]
+  },
+  {
+    "name": "BIO ESTREPTO",
+    "format": [
+      {
+        "unit": "6 MILL",
+        "price": 0.0,
+        "code": "390"
+      },
+      {
+        "unit": "50 MILL",
+        "price": 0.0,
+        "code": "399"
+      }
+    ]
+  },
+  {
+    "name": "CEFTIBIO PPR",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 626.64,
+        "code": "391"
+      }
+    ]
+  },
+  {
+    "name": "DOGGY PLEX TOTAL",
+    "format": [
+      {
+        "unit": "15 ML",
+        "price": 115.94,
+        "code": "394"
+      },
+      {
+        "unit": "100 ML",
+        "price": 759.0,
+        "code": "409"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX F (PR) FORTE",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 473.22,
+        "code": "395"
+      },
+      {
+        "unit": "25 ML",
+        "price": 144.73,
+        "code": "508"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1015.93,
+        "code": "509"
+      },
+      {
+        "unit": "500 ML",
+        "price": 1684.65,
+        "code": "510"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT ALFA PLATINUM",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "397"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "499"
+      }
+    ]
+  },
+  {
+    "name": "SUERO SALINO PROTEICO",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "402"
+      }
+    ]
+  },
+  {
+    "name": "LAMICIL 200/LA",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 771.1,
+        "code": "406"
+      },
+      {
+        "unit": "100 ML",
+        "price": 262.9,
+        "code": "424"
+      },
+      {
+        "unit": "250 ML",
+        "price": 473.0,
+        "code": "468"
+      },
+      {
+        "unit": "20 ML",
+        "price": 80.0,
+        "code": "575"
+      }
+    ]
+  },
+  {
+    "name": "PULGA SARNA",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 253.0,
+        "code": "407"
+      }
+    ]
+  },
+  {
+    "name": "VERMI FACIOL RUMIANTES",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 582.63,
+        "code": "410"
+      },
+      {
+        "unit": "250 ML",
+        "price": 1165.23,
+        "code": "412"
+      },
+      {
+        "unit": "1 LT",
+        "price": 0.0,
+        "code": "597"
+      }
+    ]
+  },
+  {
+    "name": "ECTO MAX FORTE",
+    "format": [
+      {
+        "unit": "1 L",
+        "price": 968.0,
+        "code": "413"
+      },
+      {
+        "unit": "5 L",
+        "price": 4554.0,
+        "code": "430"
+      }
+    ]
+  },
+  {
+    "name": "PEROXICAN",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 372.23,
+        "code": "414"
+      }
+    ]
+  },
+  {
+    "name": "CATARROL IM ",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 290.95,
+        "code": "415"
+      }
+    ]
+  },
+  {
+    "name": "STANO EQUINE MAX GEL",
+    "format": [
+      {
+        "unit": "30 G",
+        "price": 0.0,
+        "code": "416"
+      }
+    ]
+  },
+  {
+    "name": "GLUCO MAX",
+    "format": [
+      {
+        "unit": "60 TAB",
+        "price": 302.5,
+        "code": "417"
+      }
+    ]
+  },
+  {
+    "name": "UBRETOL",
+    "format": [
+      {
+        "unit": "150 G",
+        "price": 122.1,
+        "code": "418"
+      },
+      {
+        "unit": "240G",
+        "price": 150.9,
+        "code": "419"
+      }
+    ]
+  },
+  {
+    "name": "BOLDENONA ROSA",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "420"
+      }
+    ]
+  },
+  {
+    "name": "LAMICIL 50/LIQUIDA",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 155.1,
+        "code": "421"
+      }
+    ]
+  },
+  {
+    "name": "GRIPA PLUS",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 0.0,
+        "code": "423"
+      }
+    ]
+  },
+  {
+    "name": "OXITINA COMPLEJO FORTE",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 500.5,
+        "code": "426"
+      },
+      {
+        "unit": "100 ML",
+        "price": 302.5,
+        "code": "494"
+      }
+    ]
+  },
+  {
+    "name": "VERRUKILLER",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 189.75,
+        "code": "427"
+      }
+    ]
+  },
+  {
+    "name": "TESTO-FRATO",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 0.0,
+        "code": "431"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN PUPPY",
+    "format": [
+      {
+        "unit": "5 ML",
+        "price": 67.01,
+        "code": "432"
+      }
+    ]
+  },
+  {
+    "name": "INVERSOL 1% GALLO",
+    "format": [
+      {
+        "unit": "1 L",
+        "price": 1848.0,
+        "code": "433"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT BETA TITANIUM",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "434"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN 75 MILLONES",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 834.9,
+        "code": "436"
+      }
+    ]
+  },
+  {
+    "name": "ELECTRO AMINO BOOST + COMPLEJO B",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 357.5,
+        "code": "437"
+      }
+    ]
+  },
+  {
+    "name": "SANGRE DE TIGRE",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "439"
+      }
+    ]
+  },
+  {
+    "name": "LINEFRONVET",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 385.0,
+        "code": "440"
+      }
+    ]
+  },
+  {
+    "name": "CICATRISAN GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 616.0,
+        "code": "441"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 56.98,
+        "code": "441.1"
+      }
+    ]
+  },
+  {
+    "name": "CICATROL GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 484.0,
+        "code": "442"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 44.77,
+        "code": "442.1"
+      }
+    ]
+  },
+  {
+    "name": "CICATROL MASCOTA",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 484.0,
+        "code": "443"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 44.77,
+        "code": "443.1"
+      }
+    ]
+  },
+  {
+    "name": "CICATRISAN GOTERO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 139.15,
+        "code": "444"
+      }
+    ]
+  },
+  {
+    "name": "CICATROL GOTERO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 139.15,
+        "code": "445"
+      }
+    ]
+  },
+  {
+    "name": "BIO AZUL GOTERO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 88.55,
+        "code": "446"
+      }
+    ]
+  },
+  {
+    "name": "ELECTRO BIO",
+    "format": [
+      {
+        "unit": "1 KG",
+        "price": 638.0,
+        "code": "447"
+      },
+      {
+        "unit": "1X20 G",
+        "price": 21.37,
+        "code": "181.1"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT BOLDE GOLD",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "448"
+      }
+    ]
+  },
+  {
+    "name": "MASTER ATP PLUS",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 1980.0,
+        "code": "449"
+      }
+    ]
+  },
+  {
+    "name": "ELECTROBIO",
+    "format": [
+      {
+        "unit": "10 KG",
+        "price": 3410.0,
+        "code": "458"
+      },
+      {
+        "unit": "100 GRS",
+        "price": 0.0,
+        "code": "474"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN FORTE 2 MILLONES",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 0.0,
+        "code": "463"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN FORTE 4 MILLONES ",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 224.4,
+        "code": "464"
+      }
+    ]
+  },
+  {
+    "name": "BIOVERMI GALLO GOLD",
+    "format": [
+      {
+        "unit": "20X30 TAB",
+        "price": 1859.0,
+        "code": "465"
+      },
+      {
+        "unit": "1X30 TAB",
+        "price": 93.5,
+        "code": "465.1"
+      }
+    ]
+  },
+  {
+    "name": "SULFA 200",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "467"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "609"
+      }
+    ]
+  },
+  {
+    "name": "BIODYL",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 700.0,
+        "code": "469"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT ADE PLUS",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 902.0,
+        "code": "470"
+      },
+      {
+        "unit": "100 ML",
+        "price": 297.0,
+        "code": "491"
+      },
+      {
+        "unit": "250 ML",
+        "price": 594.0,
+        "code": "506"
+      }
+    ]
+  },
+  {
+    "name": "INVERMEX ADE",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 100.0,
+        "code": "476"
+      }
+    ]
+  },
+  {
+    "name": "UBRE MASTIL",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 528.0,
+        "code": "478"
+      }
+    ]
+  },
+  {
+    "name": "GRIPA CAN",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 278.3,
+        "code": "480"
+      }
+    ]
+  },
+  {
+    "name": "NEUMOSOL CANINO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 277.2,
+        "code": "481"
+      }
+    ]
+  },
+  {
+    "name": "CATARROL PUPPY",
+    "format": [
+      {
+        "unit": "20 TAB",
+        "price": 106.26,
+        "code": "482"
+      }
+    ]
+  },
+  {
+    "name": "MOXILAN TRIVALENTE",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 328.9,
+        "code": "483"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN 30 MILLONES ",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 417.45,
+        "code": "484"
+      }
+    ]
+  },
+  {
+    "name": "OXITIAMUTIL FORTE",
+    "format": [
+      {
+        "unit": "10 KG",
+        "price": 0.0,
+        "code": "486"
+      }
+    ]
+  },
+  {
+    "name": "DINAM VET ADE 4%",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 2508.0,
+        "code": "487"
+      }
+    ]
+  },
+  {
+    "name": "IVERVET 3.5 GOLD ",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 2359.5,
+        "code": "488"
+      }
+    ]
+  },
+  {
+    "name": "CUBENSIL",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 316.25,
+        "code": "489"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "492"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT OMEGA GOLD",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "500"
+      }
+    ]
+  },
+  {
+    "name": "FOSFO SE + ADE",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 2420.0,
+        "code": "505"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "584"
+      }
+    ]
+  },
+  {
+    "name": "TONICO EXPECTORANTE GALLO",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 541.19,
+        "code": "511"
+      },
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "511.1"
+      }
+    ]
+  },
+  {
+    "name": "BIO HIERRRO 200 PROTEICO",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 148.5,
+        "code": "512"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "582"
+      }
+    ]
+  },
+  {
+    "name": "AMINO LITE 34X",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 715.0,
+        "code": "513"
+      }
+    ]
+  },
+  {
+    "name": "GARRAMOSKA",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 275.0,
+        "code": "514"
+      },
+      {
+        "unit": "20 LT",
+        "price": 0.0,
+        "code": "521"
+      },
+      {
+        "unit": "1 LT",
+        "price": 0.0,
+        "code": "592"
+      }
+    ]
+  },
+  {
+    "name": "SANGRE DE CAMPEON",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "515"
+      }
+    ]
+  },
+  {
+    "name": "TRIBENZATIL AVIAR 1 MILL",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 187.0,
+        "code": "518"
+      }
+    ]
+  },
+  {
+    "name": "TRIBENZATIL AVIAR 2 MILL",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 330.0,
+        "code": "519"
+      }
+    ]
+  },
+  {
+    "name": "MELOXICAN MEDIANOS",
+    "format": [
+      {
+        "unit": "20 TAB",
+        "price": 159.5,
+        "code": "526"
+      }
+    ]
+  },
+  {
+    "name": "MELOXICAN GRANDES",
+    "format": [
+      {
+        "unit": "20 TAB",
+        "price": 187.0,
+        "code": "527"
+      }
+    ]
+  },
+  {
+    "name": "B12 6.500",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 183.7,
+        "code": "528"
+      },
+      {
+        "unit": "5 ML",
+        "price": 121.0,
+        "code": "531"
+      }
+    ]
+  },
+  {
+    "name": "BIO TAFORT ",
+    "format": [
+      {
+        "unit": "25X20 G",
+        "price": 869.0,
+        "code": "529"
+      },
+      {
+        "unit": "500 G",
+        "price": 726.0,
+        "code": "538"
+      },
+      {
+        "unit": "1x20 G",
+        "price": 36.3,
+        "code": "529.1"
+      }
+    ]
+  },
+  {
+    "name": "RUME-BIO PLUS",
+    "format": [
+      {
+        "unit": "25X15 G",
+        "price": 723.8,
+        "code": "530"
+      },
+      {
+        "unit": "1X15 G",
+        "price": 48.4,
+        "code": "530.1"
+      }
+    ]
+  },
+  {
+    "name": "FLORMICINA PLUS",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "532"
+      }
+    ]
+  },
+  {
+    "name": "STANO VET 50 MG",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "533"
+      }
+    ]
+  },
+  {
+    "name": "COMPLEJO B CON EXTRACTO DE HIGADO ",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 176.0,
+        "code": "535"
+      }
+    ]
+  },
+  {
+    "name": "ESTREPTO QUIM ",
+    "format": [
+      {
+        "unit": "50 MILL",
+        "price": 548.9,
+        "code": "536"
+      }
+    ]
+  },
+  {
+    "name": "NEUMO CAN",
+    "format": [
+      {
+        "unit": "30 TAB",
+        "price": 278.3,
+        "code": "543"
+      }
+    ]
+  },
+  {
+    "name": "TURBONAY B12",
+    "format": [
+      {
+        "unit": "80 ML",
+        "price": 346.5,
+        "code": "544"
+      }
+    ]
+  },
+  {
+    "name": "SANGRE DE CAMPEON CABALLO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 900.0,
+        "code": "545"
+      }
+    ]
+  },
+  {
+    "name": "SANGRE DE CAMPEON PERRO",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 900.0,
+        "code": "546"
+      }
+    ]
+  },
+  {
+    "name": "ELECTRO AMINOLITOS",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 253.11,
+        "code": "547"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN PLUS 50 MILLONES",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 1139.34,
+        "code": "548"
+      }
+    ]
+  },
+  {
+    "name": "DEXTREP REFORZADO ",
+    "format": [
+      {
+        "unit": "6 MILL",
+        "price": 165.0,
+        "code": "549"
+      },
+      {
+        "unit": "50 MILL",
+        "price": 869.0,
+        "code": "550"
+      }
+    ]
+  },
+  {
+    "name": "SCAR BIO",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 346.5,
+        "code": "551"
+      },
+      {
+        "unit": "150 G",
+        "price": 341.0,
+        "code": "552"
+      }
+    ]
+  },
+  {
+    "name": "VIT-E SELENIO",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "555"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "560"
+      }
+    ]
+  },
+  {
+    "name": "BIO CALCIO ",
+    "format": [
+      {
+        "unit": "100 G",
+        "price": 0.0,
+        "code": "559"
+      }
+    ]
+  },
+  {
+    "name": "DORA EQUINO ADE",
+    "format": [
+      {
+        "unit": "2X12 ML",
+        "price": 245.0,
+        "code": "561"
+      }
+    ]
+  },
+  {
+    "name": "RAPTOR ",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "562"
+      }
+    ]
+  },
+  {
+    "name": "RAPTOR V PLUS",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "563"
+      },
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "572"
+      }
+    ]
+  },
+  {
+    "name": "VIT-E + B12 + FoSE",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "564"
+      }
+    ]
+  },
+  {
+    "name": "BOLDE SE",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "565"
+      }
+    ]
+  },
+  {
+    "name": "FORT CAL VET",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 340.0,
+        "code": "566"
+      }
+    ]
+  },
+  {
+    "name": "SUPER VITAMINA B12 5.500 + B15 ",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 630.0,
+        "code": "567"
+      }
+    ]
+  },
+  {
+    "name": "FOSFO ADE ",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "569"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINA NEGRA PLATINUM DIAMOND",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 320.0,
+        "code": "570"
+      },
+      {
+        "unit": "250 ML",
+        "price": 560.0,
+        "code": "576"
+      }
+    ]
+  },
+  {
+    "name": "ESTREPTO PLUS ",
+    "format": [
+      {
+        "unit": "50 MILL",
+        "price": 550.0,
+        "code": "573"
+      }
+    ]
+  },
+  {
+    "name": "LIPKAM GEL",
+    "format": [
+      {
+        "unit": "150 G",
+        "price": 0.0,
+        "code": "577"
+      }
+    ]
+  },
+  {
+    "name": "ROOSTER BOOSTER COMPLEX B ",
+    "format": [
+      {
+        "unit": "10 ML",
+        "price": 198.0,
+        "code": "578"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINVIDA PUPPY",
+    "format": [
+      {
+        "unit": "12X30 ML",
+        "price": 0.0,
+        "code": "579"
+      }
+    ]
+  },
+  {
+    "name": "BIO PEN PLUS 20 + 4 MILLONES",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 592.88,
+        "code": "580"
+      }
+    ]
+  },
+  {
+    "name": "OXIME-FRATO",
+    "format": [
+      {
+        "unit": "100 TAB",
+        "price": 0.0,
+        "code": "581"
+      }
+    ]
+  },
+  {
+    "name": "DECA BOLD",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "587"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "588"
+      }
+    ]
+  },
+  {
+    "name": "NEUFLOR FORTE",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "589"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "590"
+      }
+    ]
+  },
+  {
+    "name": "SERUM ENERGY COMPLEMENTO VITAMINICO ATP",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "591"
+      }
+    ]
+  },
+  {
+    "name": "TRICLOXIL ORAL",
+    "format": [
+      {
+        "unit": "1 LT",
+        "price": 0.0,
+        "code": "593"
+      }
+    ]
+  },
+  {
+    "name": "VITAMINA ADE PLATINUM",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "595"
+      }
+    ]
+  },
+  {
+    "name": "ULTRA HORSE F40",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "599"
+      }
+    ]
+  },
+  {
+    "name": "OXITIAMUTIL CON EXPECTORANTE",
+    "format": [
+      {
+        "unit": "10 KG",
+        "price": 0.0,
+        "code": "600"
+      }
+    ]
+  },
+  {
+    "name": "LARVASEN ",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "601"
+      }
+    ]
+  },
+  {
+    "name": "PROMETABOL",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "602"
+      }
+    ]
+  },
+  {
+    "name": "B12/5.500 CURATIVA",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 980.0,
+        "code": "604"
+      }
+    ]
+  },
+  {
+    "name": "VENTIPULMIN SYRUP",
+    "format": [
+      {
+        "unit": "330 ML",
+        "price": 0.0,
+        "code": "605"
+      }
+    ]
+  },
+  {
+    "name": "AMOXI PREMIX 15 %",
+    "format": [
+      {
+        "unit": "1 KG",
+        "price": 0.0,
+        "code": "606"
+      }
+    ]
+  },
+  {
+    "name": "AZUL- V ULTRA CICATRIZANTE",
+    "format": [
+      {
+        "unit": "120 ML",
+        "price": 0.0,
+        "code": "607"
+      }
+    ]
+  },
+  {
+    "name": "DORANOVET PREMIUM",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "608"
+      }
+    ]
+  },
+  {
+    "name": "CLOSIVER ADE + B12 ",
+    "format": [
+      {
+        "unit": "50 ML",
+        "price": 0.0,
+        "code": "610"
+      }
+    ]
+  },
+  {
+    "name": "HORSIL",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "612"
+      }
+    ]
+  },
+  {
+    "name": "IMPLANT DELTA QUANTUM",
+    "format": [
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "615"
+      }
+    ]
+  },
+  {
+    "name": "JABON ASUNTOL",
+    "format": [
+      {
+        "unit": "100 G",
+        "price": 0.0,
+        "code": "1001"
+      }
+    ]
+  },
+  {
+    "name": "TALCO BOLFO",
+    "format": [
+      {
+        "unit": "100 G",
+        "price": 0.0,
+        "code": "1002"
+      }
+    ]
+  },
+  {
+    "name": "JABON VETRIDERM",
+    "format": [
+      {
+        "unit": "100 G",
+        "price": 0.0,
+        "code": "1003"
+      }
+    ]
+  },
+  {
+    "name": "VETRIDERM OTTO",
+    "format": [
+      {
+        "unit": "100 G",
+        "price": 0.0,
+        "code": "1004"
+      }
+    ]
+  },
+  {
+    "name": "SHAMPOO ANTIPULGAS",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "1005"
+      }
+    ]
+  },
+  {
+    "name": "BAMITOL",
+    "format": [
+      {
+        "unit": "60 G",
+        "price": 0.0,
+        "code": "1006"
+      },
+      {
+        "unit": "200 G",
+        "price": 0.0,
+        "code": "1007"
+      }
+    ]
+  },
+  {
+    "name": "SCAR-V ULTRA",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "1008"
+      }
+    ]
+  },
+  {
+    "name": "SCAR-VP",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "1009"
+      }
+    ]
+  },
+  {
+    "name": "CATOSAL",
+    "format": [
+      {
+        "unit": "20 ML",
+        "price": 0.0,
+        "code": "1010"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "1011"
+      },
+      {
+        "unit": "250 ML",
+        "price": 0.0,
+        "code": "1012"
+      }
+    ]
+  },
+  {
+    "name": "VIGANTOL",
+    "format": [
+      {
+        "unit": "25 ML",
+        "price": 0.0,
+        "code": "1013"
+      },
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "1014"
+      },
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "1015"
+      }
+    ]
+  },
+  {
+    "name": "AMINO FORTE F ",
+    "format": [
+      {
+        "unit": "500 ML",
+        "price": 0.0,
+        "code": "1016"
+      }
+    ]
+  },
+  {
+    "name": "EMICINA LIQUIDA ZOETIS",
+    "format": [
+      {
+        "unit": "100 ML",
+        "price": 0.0,
+        "code": "1017"
+      }
+    ]
+  },
+  {
+    "name": "BIOTRYL ORAL",
+    "format": [
+      {
+        "unit": "1X30 ML",
+        "price": 60.72,
+        "code": "114.1"
+      }
+    ]
+  },
+  {
+    "name": "DIFURSAN ",
+    "format": [
+      {
+        "unit": "1X20 G",
+        "price": 38.46,
+        "code": "171.1"
+      }
+    ]
+  },
+  {
+    "name": "TONICO POSTURA GALLO",
+    "format": [
+      {
+        "unit": "1X30 ML",
+        "price": 49.85,
+        "code": "329.1"
+      }
+    ]
+  }
+]
